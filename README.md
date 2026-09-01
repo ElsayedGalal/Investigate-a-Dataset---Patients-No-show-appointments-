@@ -16,7 +16,7 @@ An end-to-end healthcare analytics dashboard and decision-support tool built to 
 ---
 
 ## 🚀 Live Interactive Demo
-👉 **[Access the Live Clinical Attendance Dashboard](http://localhost:8501/)**
+👉 **[Access the Live Clinical Attendance Dashboard](https://e87ubsdj4pzhxf9sezzn82.streamlit.app/)**
 
 ---
 
